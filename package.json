@@ -1,0 +1,12 @@
+{
+  "name": "Watermark",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Robert-Roszak/Watermark.git",
+  "author": "RR",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
